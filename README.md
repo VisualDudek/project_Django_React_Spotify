@@ -12,3 +12,12 @@ based on YT TechWithTim
 4. python pkg:
     - django
     - djangorestframework
+
+## Django setup
+
+1. Create a Django dir structure project `django-admin startproject music_controller`
+2. Create django-app within `music_controller` project, `django-admin startapp api`
+
+# LINKs
+
+- [Django doc](https://docs.djangoproject.com/en/3.2/)
